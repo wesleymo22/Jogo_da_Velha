@@ -71,11 +71,11 @@ h1{
 
 /* classe de esconder */
 
-/*
+
 .hide{
     display: none !important;
 }
-*/
+
 
 /* placar */
 
@@ -109,7 +109,7 @@ h1{
 
 /* msg de vitoria */
 
-/*
+
 #message p {
     position: absolute;
     margin-left: auto;
@@ -123,4 +123,3 @@ h1{
     color: #fff;
     padding: 20px;
 }
-*/
